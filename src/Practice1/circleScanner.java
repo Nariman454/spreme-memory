@@ -10,7 +10,7 @@ public class circleScanner {
 		double r = circle.nextDouble();
 		double p = 3.14;
 		double S = (r*r*p);
-		System.out.println("the area of the circle is"+" "+S);
+		System.out.println("the area of the circle is "+" "+S);
 		circle.close();
 		
 	}
